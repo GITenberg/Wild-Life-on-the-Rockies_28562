@@ -1,0 +1,35 @@
+_repo: Wild-Life-on-the-Rockies_28562
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28562-h/images/wild_life_cover.jpg
+creator:
+  author:
+    agent_name: Mills, Enos A.
+    alias: Mills, Enos Abijah
+    birthdate: 1870
+    deathdate: 1922
+    gutenberg_agent_id: '33404'
+    url: http://www.gutenberg.org/2009/agents/33404
+    wikipedia: http://en.wikipedia.org/wiki/Enos_Mills
+description: ''
+gutenberg_issued: '2009-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28562'
+  lccn: 09008919
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rocky Mountain National Park (Colo.) -- History'
+- !lcsh 'Colorado -- Description and travel'
+- !lcsh 'Pioneers -- Colorado -- Biography'
+- !lcc 'F721'
+- !lcsh 'Natural history -- Colorado'
+- !lcsh 'Mills, Enos A., 1870-1922'
+- !lcsh 'Colorado -- Biography'
+- !lcsh 'Rocky Mountains'
+title: Wild Life on the Rockies
+url: http://www.gutenberg.org/ebooks/28562
